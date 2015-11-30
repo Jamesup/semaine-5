@@ -1,0 +1,106 @@
+body
+{
+    background-image:url(dark_embroidery.png) ;
+    background-attachment:fixed;
+    font-family: Verdana, Geneva, sans-serif;
+    width:100%;
+    padding:0px;
+   
+   
+ 
+}
+
+header
+{
+    background-image:url(mooning.png);
+   width:auto;
+    height:230px;
+ 
+
+}
+
+header p
+{
+    color:white;
+   
+}
+
+.recherche
+{
+    float: right;
+}
+
+h1
+{
+ margin-left:45px;
+ 
+}
+
+h2
+{
+ 
+ margin-left:45px;
+
+}
+
+.parcours
+{
+ width: 30%;
+display: inline-block;
+vertical-align: top;
+box-sizing: border-box;
+}
+
+.parcours p
+{
+    font-style:oblique;
+    color:white;
+     
+    
+}
+
+.photo
+{
+  
+   padding:15px;
+    float:left;
+}
+
+.photo img
+{
+    width:233px;
+    height:200px;
+   
+}
+
+
+.experience
+{
+   width: 30%;
+display: inline-block;
+vertical-align: top;
+box-sizing: border-box;
+}
+.experience li 
+{
+    list-style : none;
+    color:#6600FF;
+}
+
+.experience b
+
+{
+    font-style:italic;
+}
+
+main clear: both
+{
+   width:90%;
+
+   clear: both
+}
+
+
+
+
+
